@@ -242,6 +242,9 @@ em {
   color: var(--color-white);
 }
 
+.bento-grid__card--hero h2 {
+  font-size: var(--font-size-h1);
+}
 .bento-grid__card--hero p {
   color: var(--color-white);
 }
